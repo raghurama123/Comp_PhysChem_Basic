@@ -3,5 +3,5 @@ The presentation and the notebooks are prepared for the lecture Computer-based E
 
 ![](https://moldis.tifrh.res.in/index.html)
 <a href="https://moldis.tifrh.res.in/index.html">
-<img src="img/Comp_PhysChem.png"  height="100">
+<img src="img/Comp_PhysChem.png"  height="200">
 </a>
