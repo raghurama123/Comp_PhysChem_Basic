@@ -3,6 +3,6 @@ The presentation and the notebooks are prepared for the lecture Computer-based E
 
 Click the slides below for the presentation
 ![](https://github.com/raghurama123/Comp_PhysChem_Basic/blob/main/pdf/NIUS26Dec2021_CompPhysChem.pdf)
-<a href="https://moldis.tifrh.res.in/index.html">
+<a href="https://github.com/raghurama123/Comp_PhysChem_Basic/blob/main/pdf/NIUS26Dec2021_CompPhysChem.pdf">
 <img src="img/Comp_PhysChem.png"  height="400">
 </a>
