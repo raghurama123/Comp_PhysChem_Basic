@@ -6,3 +6,5 @@ Click the slides below for the presentation
 <a href="https://github.com/raghurama123/Comp_PhysChem_Basic/blob/main/pdf/NIUS26Dec2021_CompPhysChem.pdf">
 <img src="img/Comp_PhysChem.png"  height="400">
 </a>
+
+You can access the notebooks interactively here [https://hub-binder.mybinder.ovh/user/raghurama123-comp_physchem_basic-nnpmfyua/lab/tree/notebooks](https://hub-binder.mybinder.ovh/user/raghurama123-comp_physchem_basic-nnpmfyua/lab/tree/notebooks)
