@@ -7,4 +7,4 @@ Click the slides below for the presentation
 <img src="img/Comp_PhysChem.png"  height="400">
 </a>
 
-You can access the notebooks interactively here [https://mybinder.org/v2/gh/Comp_PhysChem_Basic/HEAD/master](https://mybinder.org/v2/gh/Comp_PhysChem_Basic/HEAD/master)
+You can access the notebooks interactively here [https://mybinder.org/v2/gh/raghurama123/Comp_PhysChem_Basic/HEAD](https://mybinder.org/v2/gh/raghurama123/Comp_PhysChem_Basic/HEAD)
